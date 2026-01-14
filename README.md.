@@ -1,0 +1,17 @@
+# 📚 AI Book Finder Pro  
+**"Découvrez votre prochain coup de cœur littéraire grâce à l'IA"**
+
+## 🌟 Aperçu
+**AI Book Finder Pro** est un moteur de recommandation de livres intelligent. Au lieu de chercher par titre, décrivez une émotion ou une ambiance, et l'IA (Gemini) vous proposera les meilleurs ouvrages correspondants.
+
+## ✨ Caractéristiques
+* **Recherche en langage naturel** : Décrivez ce que vous voulez lire.
+* **Système de Match Score** : Pourcentage de compatibilité pour chaque livre.
+* **Interface Moderne** : Design "Dark Mode" élégant déployé sur Vercel.
+* **Propulsé par Gemini AI** : Utilise l'API Google Gemini pour des analyses précises.
+
+## 🛠 Technologies
+* **Framework** : React.js / Vite
+* **Styling** : Tailwind CSS
+* **IA** : API Google Gemini
+* **Hébergement** : Vercel
